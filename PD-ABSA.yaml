@@ -1,0 +1,24 @@
+
+---
+
+## 🚀 How to Run
+1. Open `AI_AAT_Code.ipynb` in **Google Colab**
+2. Mount Google Drive to access datasets
+3. Ensure GPU is enabled (Runtime → Change runtime type → GPU)
+4. Run the notebook cells sequentially
+
+---
+
+## 🔗 GitHub Repository
+https://github.com/madhupriyascs25-creator/Artificial-Intelligence-project/
+
+---
+
+## 📚 Reference
+- Pontiki et al., *SemEval-2014 Task 4: Aspect-Based Sentiment Analysis*
+- IEEE Paper: *Enhanced Implicit Sentiment Understanding With Prototype Learning and Demonstration for ABSA*
+
+---
+
+## ✨ Acknowledgment
+This project was developed as part of an **MTech Artificial Intelligence assignment**, focusing on applying recent research ideas to real-world sentiment analysis problems.
